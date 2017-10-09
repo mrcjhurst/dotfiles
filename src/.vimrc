@@ -44,3 +44,6 @@ nnoremap k gk
 
 " highlight last inserted text
 nnoremap gV `[v`]
+
+" colors
+colorscheme badwolf
