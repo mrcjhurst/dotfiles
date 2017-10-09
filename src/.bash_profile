@@ -10,3 +10,4 @@ function color_my_prompt {
     }
 color_my_prompt
 
+export EDITOR=vim
